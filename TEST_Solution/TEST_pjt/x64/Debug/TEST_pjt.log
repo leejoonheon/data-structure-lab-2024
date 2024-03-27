@@ -1,2 +1,4 @@
-﻿  소스.c
+﻿  lec5.c
+C:\Users\USER\Documents\data-structure-lab-2024\TEST_Solution\TEST_pjt\lec5.c(59,17): warning C4129: '/': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
+C:\Users\USER\Documents\data-structure-lab-2024\TEST_Solution\TEST_pjt\lec5.c(61,17): warning C4129: '/': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
   TEST_pjt.vcxproj -> C:\Users\USER\Documents\data-structure-lab-2024\TEST_Solution\x64\Debug\TEST_pjt.exe
